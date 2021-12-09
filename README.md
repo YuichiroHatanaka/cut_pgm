@@ -4,6 +4,11 @@ pgmファイルの余計な部分をカットする
 
 コード：https://github.com/YuichiroHatanaka/cut_pgm/blob/master/cut.ipynb
 
+※読み込むpgmファイルが大きい場合、読み込むのに数分かかる場合がある
+
+
+# 結果
+
 ## before   (map.pgm)
 
 4000 ピクセル * 4000 ピクセル
