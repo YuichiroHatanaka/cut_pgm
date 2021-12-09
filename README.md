@@ -1,5 +1,5 @@
-# cut_photo
-余計なフレームをカットする
+# cut_pgm
+pgmファイルの余計な部分をカットする
 
 before
 
