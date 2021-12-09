@@ -1,5 +1,8 @@
 # cut_pgm
+
 pgmファイルの余計な部分をカットする
+
+コード：https://github.com/YuichiroHatanaka/cut_pgm/blob/master/cut.ipynb
 
 ## before   (map.pgm)
 
